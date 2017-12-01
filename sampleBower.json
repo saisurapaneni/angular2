@@ -1,0 +1,46 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": ["index.html","demo.index.html"],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.18",
+    "bootstrap": "3.0",
+    "angular-ui-router": "~0.2.15",
+    "angular-cookies": "1.2.13",
+    "angular-translate": "~2.8.1",
+    "angular-translate-storage-cookie": "~2.8.1",
+    "angular-translate-storage-local": "~2.8.1",
+    "angular-translate-loader-url": "~2.8.1",
+    "angular-translate-loader-static-files": "~2.8.1",
+    "angular-translate-handler-log": "~2.8.1",
+    "angular-bootstrap": "0.11.2",
+    "jquery": "1.9.1",
+    "sockjs": "~0.3.4",
+    "stomp-websocket": "~2.3.4",
+    "angular-resource": "~1.4.7",
+    "angular-mocks": "1.2.10",
+    "toastr": "~2.1.2",
+    "angular-confirm-modal": "1.1.2",
+     "angular-sanitize": "1.2.18",
+    "ui-select": "angular-ui-select#0.12.0",
+    "select2": "~3.4.5",
+    "ng-idle" : "~1.2.2"
+  },
+  "resolutions": {
+    "angular": "1.2.18",
+    "angular-cookies": "1.2.13",
+    "jquery": "1.9.0",
+    "ui-select": "0.12.0"
+  }
+}
