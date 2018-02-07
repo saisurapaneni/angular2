@@ -1,0 +1,15 @@
+As I mentioned, I would like to move forward to the next step of the interview process for our Front End Developer role. We ask that you complete a code project that our team will review. Our expectation is that this project will be a good representation of your work, so please invest sufficient time to demonstrate your level of work.
+
+I understand you have ongoing commitments, and my expectations are not that you drop everything to complete this immediately. You are not being judged on time to complete, but rather the quality of code and thought put into the project. 
+
+The design is being delivered to you as a series of PSD files and supporting assets. This project includes a desktop and mobile design, so please make your project responsive; implementing appropriate breakpoints. A dealer data file is provided and should be integrated into the project. The integration method is up to you and will give us insight into your broader skill set. 
+
+Please send your finished project via Google Drive, with it accessible publicly to all (without permissions needed) in order for any member of our team to review. Please do not require build processes to view the work. If you’d like to include your tool stack to show further detail, include a /dist folder that can be opened and viewed as HTML/CSS (or SASS)/JS files, and opened directly in a browser. Do not include the node_modules, as that inflates the package size, but feel free to include your package.json, etc.
+
+In order to facilitate the front end layout portion of the project, please use HTML5 and CSS from scratch. Do NOT use a CSS Framework. For the dynamic portions of the interface, feel free to use a Javascript framework, if you prefer (such as Vue, React, Angular, etc). We prefer a solution with fewer dependencies but we want to see your work reflect your greatest strength. For example, if you’re more proficient in React.js over vanilla Javascript, go that route. We also encourage you to make this as interactive and creative as possible. 
+
+Once you’ve had a chance to review, please let me know when you think you would be able to provide the completed project. Please let me know if you have any questions.
+
+FED Take Home Project 1
+Password: ckYxDqn3
+https://redventures.egnyte.com/fl/HlLbJGRj8N
